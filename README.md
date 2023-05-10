@@ -1,2 +1,2 @@
 # scripts
-A bunch of scripts for making programming faster 
+A bunch of scripts for making manual programming tasks faster 
